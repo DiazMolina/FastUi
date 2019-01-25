@@ -1,5 +1,7 @@
 # faster_ui
 
+![alt text](inicio.PNG)
+
 ## Screen one
 ![alt text](pantalla1.PNG)
 
